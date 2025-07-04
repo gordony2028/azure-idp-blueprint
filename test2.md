@@ -1,5 +1,4 @@
-mermaid
-```
+```mermaid
 flowchart TD
   User[Admin / Staff] -->|Browser Access| Nginx[Reverse Proxy]
   Nginx -->|Port 5678| n8n[n8n Server]
