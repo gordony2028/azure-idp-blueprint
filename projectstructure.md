@@ -1,5 +1,5 @@
-```mermaid
-graph TD
+markdown
+```
 
 azure-idp-blueprint/
 ├── main.tf
