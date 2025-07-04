@@ -1,3 +1,6 @@
+```mermaid
+graph TD
+
 azure-idp-blueprint/
 ├── main.tf
 ├── variables.tf
