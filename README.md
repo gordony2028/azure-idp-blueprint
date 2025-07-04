@@ -1,3 +1,6 @@
+markdown
+```
+                                
                                 ┌────────────────────────────┐
                                 │     Developers (Users)     │
                                 └────────────┬───────────────┘
@@ -54,20 +57,20 @@
                        │ (SSO + RBAC for AKS│
                        └────────────────────┘
 
-🔧 Azure-Native Stack Components (Updated)
+🔧 Azure-Native Stack Components
 
 Function	                   Tech
 Developer Portal	           Port (SaaS/self-hosted)
-Source Control	           Azure DevOps Repos
-CI/CD	                         Azure Pipelines
-GitOps	                         ArgoCD (deployed on AKS)
-Kubernetes	                  Azure Kubernetes Service (AKS)
-Infra Provisioning	           Crossplane (Azure Provider)
-Secrets Management	           Azure Key Vault + CSI Driver
-Observability	                  Azure Monitor, App Insights
-Ingress & DNS	                  Azure App Gateway + AGIC
-Container Registry	           Azure Container Registry (ACR)
-Identity & RBAC	           Azure Active Directory
+Source Control	             Azure DevOps Repos
+CI/CD	                       Azure Pipelines
+GitOps	                     ArgoCD (deployed on AKS)
+Kubernetes	                 Azure Kubernetes Service (AKS)
+Infra Provisioning	         Crossplane (Azure Provider)
+Secrets Management	         Azure Key Vault + CSI Driver
+Observability	               Azure Monitor, App Insights
+Ingress & DNS	               Azure App Gateway + AGIC
+Container Registry	         Azure Container Registry (ACR)
+Identity & RBAC	             Azure Active Directory
 
 🧱 What’s Included in a Terraform-Ready Blueprint?
 
