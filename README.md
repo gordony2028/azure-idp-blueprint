@@ -124,3 +124,4 @@ Easy provisioning	Spin up entire platforms in minutes
 Secure by default	Integrates RBAC, Key Vault, remote state
 Cloud-native integrations	Azure AD, Azure Monitor, Azure DevOps ready
 GitOps-friendly	Use with ArgoCD for continuous delivery
+```
